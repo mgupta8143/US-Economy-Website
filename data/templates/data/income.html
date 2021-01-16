@@ -1,0 +1,122 @@
+{% extends 'data/base.html' %}
+{% block content %}
+<div class="jumbotron jumbotron-fluid bg-success">
+  <div class="container">
+    <h1 class="display-4 text-light">United States Median Household Income: $63,179 (as of 2018)</h1>
+    <p class="lead text-light">The United States Median Household income is a value that splits the income distribution of U.S households into two halves: one upper class with incomes above the median income, and one lower class with incomes below the median income. Below is a list of median and average household incomes per state as of 2019. </p>
+  </div>
+</div>
+<div class="chart-container" style="position: relative; height:200vh; width:90vw">
+	<canvas id="myChart"></canvas>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+
+<script>
+	function convertToColor(rate) {
+		rate = parseFloat(rate);
+		if(rate >= 100000) {
+			return "#FB2C00";
+		}
+		else if(rate >= 92000) {
+			return "#FA5632"
+		}
+		else if(rate >= 84000) {
+			return "#F9785D"
+		}
+		else if(rate >= 72000) {
+			return "#FAA390"
+		}
+		else if(rate >= 64000) {
+			return "#FAB8AA";
+		}
+		else if(rate >= 56000) {
+			return "#FACAC0";
+		}
+		else {
+			return "#F9DED8";
+		}
+	}
+
+	function convertToColor2(rate) {
+		rate = parseFloat(rate);
+		if(rate >= 80000) {
+			return "#0AFF00";
+		}
+		else if(rate >= 74000) {
+			return "#31FF29"
+		}
+		else if(rate >= 68000) {
+			return "#49FC42"
+		}
+		else if(rate >= 62000) {
+			return "#64FC5E"
+		}
+		else if(rate >= 56000) {
+			return "#88FC83";
+		}
+		else if(rate >= 48000) {
+			return "#ACFEA9";
+		}
+		else {
+			return "#CFFFCD";
+		}
+	}
+
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'horizontalBar',
+  data: {
+    labels: ["Alabama", "Alaska","Arizona","Arkansas","California","Colorado",
+  "Connecticut","Delaware", "District of Columbia", "Florida","Georgia","Hawaii","Idaho","Illinois",
+  "Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine","Maryland",
+  "Massachusetts","Michigan","Minnesota","Mississippi","Missouri","Montana",
+  "Nebraska","Nevada","New Hampshire","New Jersey","New Mexico","New York",
+  "North Carolina","North Dakota","Ohio","Oklahoma","Oregon","Pennsylvania",
+  "Rhode Island","South Carolina","South Dakota","Tennessee","Texas","Utah",
+  "Vermont","Virginia","Washington","West Virginia","Wisconsin","Wyoming"],
+    datasets: [
+      {
+        label: 'Average Household Income',
+        data: [{{Alabama_AVG}}, {{Alaska_AVG}}, {{Arizona_AVG}}, {{Arkansas_AVG}}, {{California_AVG}}, {{Colorado_AVG}}, {{Connecticut_AVG}}, {{Delaware_AVG}}, {{District_of_Columbia_AVG}}, {{Florida_AVG}}, {{Georgia_AVG}}, {{Hawaii_AVG}}, {{Idaho_AVG}}, {{Illinois_AVG}}, {{Indiana_AVG}}, {{Iowa_AVG}}, {{Kansas_AVG}}, {{Kentucky_AVG}}, {{Louisiana_AVG}}, {{Maine_AVG}}, {{Maryland_AVG}}, {{Massachusetts_AVG}}, {{Michigan_AVG}}, {{Minnesota_AVG}}, {{Mississippi_AVG}}, {{Missouri_AVG}}, {{Montana_AVG}}, {{Nebraska_AVG}},{{Nevada_AVG}}, {{New_Hampshire_AVG}}, {{New_Jersey_AVG}}, {{New_Mexico_AVG}}, {{New_York_AVG}}, {{North_Carolina_AVG}}, {{North_Dakota_AVG}}, {{Ohio_AVG}}, {{Oklahoma_AVG}}, {{Oregon_AVG}}, {{Pennsylvania_AVG}}, {{Rhode_Island_AVG}}, {{South_Carolina_AVG}}, {{South_Dakota_AVG}}, {{Tennessee_AVG}}, {{Texas_AVG}}, {{Utah_AVG}}, {{Vermont_AVG}}, {{Virginia_AVG}}, {{Washington_AVG}}, {{West_Virginia_AVG}}, {{Wisconsin_AVG}}, {{Wyoming_AVG}}],
+        backgroundColor: [convertToColor({{Alabama_AVG}}), convertToColor({{Alaska_AVG}}), convertToColor({{Arizona_AVG}}), convertToColor({{Arkansas_AVG}}), convertToColor({{California_AVG}}), convertToColor({{Colorado_AVG}}), convertToColor({{Connecticut_AVG}}), convertToColor({{Delaware_AVG}}), convertToColor({{District_of_Columbia_AVG}}), convertToColor({{Florida_AVG}}), convertToColor({{Georgia_AVG}}), convertToColor({{Hawaii_AVG}}), convertToColor({{Idaho_AVG}}), convertToColor({{Illinois_AVG}}), convertToColor({{Indiana_AVG}}), convertToColor({{Iowa_AVG}}), convertToColor({{Kansas_AVG}}), convertToColor({{Kentucky_AVG}}), convertToColor({{Louisiana_AVG}}), convertToColor({{Maine_AVG}}), convertToColor({{Maryland_AVG}}), convertToColor({{Massachusetts_AVG}}), convertToColor({{Michigan_AVG}}), convertToColor({{Minnesota_AVG}}), convertToColor({{Mississippi_AVG}}), convertToColor({{Missouri_AVG}}), convertToColor({{Montana_AVG}}), convertToColor({{Nebraska_AVG}}),convertToColor({{Nevada_AVG}}), convertToColor({{New_Hampshire_AVG}}), convertToColor({{New_Jersey_AVG}}), convertToColor({{New_Mexico_AVG}}), convertToColor({{New_York_AVG}}), convertToColor({{North_Carolina_AVG}}), convertToColor({{North_Dakota_AVG}}), convertToColor({{Ohio_AVG}}), convertToColor({{Oklahoma_AVG}}), convertToColor({{Oregon_AVG}}), convertToColor({{Pennsylvania_AVG}}), convertToColor({{Rhode_Island_AVG}}), convertToColor({{South_Carolina_AVG}}), convertToColor({{South_Dakota_AVG}}), convertToColor({{Tennessee_AVG}}), convertToColor({{Texas_AVG}}), convertToColor({{Utah_AVG}}), convertToColor({{Vermont_AVG}}), convertToColor({{Virginia_AVG}}), convertToColor({{Washington_AVG}}), convertToColor({{West_Virginia_AVG}}), convertToColor({{Wisconsin_AVG}}), convertToColor({{Wyoming_AVG}})]
+      },
+      {
+      label: 'Median Household Income',
+        data: [{{Alabama_MEDIAN}}, {{Alaska_MEDIAN}}, {{Arizona_MEDIAN}}, {{Arkansas_MEDIAN}}, {{California_MEDIAN}}, {{Colorado_MEDIAN}}, {{Connecticut_MEDIAN}}, {{Delaware_MEDIAN}}, {{District_of_Columbia_MEDIAN}}, {{Florida_MEDIAN}}, {{Georgia_MEDIAN}}, {{Hawaii_MEDIAN}}, {{Idaho_MEDIAN}}, {{Illinois_MEDIAN}}, {{Indiana_MEDIAN}}, {{Iowa_MEDIAN}}, {{Kansas_MEDIAN}}, {{Kentucky_MEDIAN}}, {{Louisiana_MEDIAN}}, {{Maine_MEDIAN}}, {{Maryland_MEDIAN}}, {{Massachusetts_MEDIAN}}, {{Michigan_MEDIAN}}, {{Minnesota_MEDIAN}}, {{Mississippi_MEDIAN}}, {{Missouri_MEDIAN}}, {{Montana_MEDIAN}}, {{Nebraska_MEDIAN}},{{Nevada_MEDIAN}}, {{New_Hampshire_MEDIAN}}, {{New_Jersey_MEDIAN}}, {{New_Mexico_MEDIAN}}, {{New_York_MEDIAN}}, {{North_Carolina_MEDIAN}}, {{North_Dakota_MEDIAN}}, {{Ohio_MEDIAN}}, {{Oklahoma_MEDIAN}}, {{Oregon_MEDIAN}}, {{Pennsylvania_MEDIAN}}, {{Rhode_Island_MEDIAN}}, {{South_Carolina_MEDIAN}}, {{South_Dakota_MEDIAN}}, {{Tennessee_MEDIAN}}, {{Texas_MEDIAN}}, {{Utah_MEDIAN}}, {{Vermont_MEDIAN}}, {{Virginia_MEDIAN}}, {{Washington_MEDIAN}}, {{West_Virginia_MEDIAN}}, {{Wisconsin_MEDIAN}}, {{Wyoming_MEDIAN}}],
+        backgroundColor: [convertToColor2({{Alabama_MEDIAN}}), convertToColor2({{Alaska_MEDIAN}}), convertToColor2({{Arizona_MEDIAN}}), convertToColor2({{Arkansas_MEDIAN}}), convertToColor2({{California_MEDIAN}}), convertToColor2({{Colorado_MEDIAN}}), convertToColor2({{Connecticut_MEDIAN}}), convertToColor2({{Delaware_MEDIAN}}), convertToColor2({{District_of_Columbia_MEDIAN}}), convertToColor2({{Florida_MEDIAN}}), convertToColor2({{Georgia_MEDIAN}}), convertToColor2({{Hawaii_MEDIAN}}), convertToColor2({{Idaho_MEDIAN}}), convertToColor2({{Illinois_MEDIAN}}), convertToColor2({{Indiana_MEDIAN}}), convertToColor2({{Iowa_MEDIAN}}), convertToColor2({{Kansas_MEDIAN}}), convertToColor2({{Kentucky_MEDIAN}}), convertToColor2({{Louisiana_MEDIAN}}), convertToColor2({{Maine_MEDIAN}}), convertToColor2({{Maryland_MEDIAN}}), convertToColor2({{Massachusetts_MEDIAN}}), convertToColor2({{Michigan_MEDIAN}}), convertToColor2({{Minnesota_MEDIAN}}), convertToColor2({{Mississippi_MEDIAN}}), convertToColor2({{Missouri_MEDIAN}}), convertToColor2({{Montana_MEDIAN}}), convertToColor2({{Nebraska_MEDIAN}}),convertToColor2({{Nevada_MEDIAN}}), convertToColor2({{New_Hampshire_MEDIAN}}), convertToColor2({{New_Jersey_MEDIAN}}), convertToColor2({{New_Mexico_MEDIAN}}), convertToColor2({{New_York_MEDIAN}}), convertToColor2({{North_Carolina_MEDIAN}}), convertToColor2({{North_Dakota_MEDIAN}}), convertToColor2({{Ohio_MEDIAN}}), convertToColor2({{Oklahoma_MEDIAN}}), convertToColor2({{Oregon_MEDIAN}}), convertToColor2({{Pennsylvania_MEDIAN}}), convertToColor2({{Rhode_Island_MEDIAN}}), convertToColor2({{South_Carolina_MEDIAN}}), convertToColor2({{South_Dakota_MEDIAN}}), convertToColor2({{Tennessee_MEDIAN}}), convertToColor2({{Texas_MEDIAN}}), convertToColor2({{Utah_MEDIAN}}), convertToColor2({{Vermont_MEDIAN}}), convertToColor2({{Virginia_MEDIAN}}), convertToColor2({{Washington_MEDIAN}}), convertToColor2({{West_Virginia_MEDIAN}}), convertToColor2({{Wisconsin_MEDIAN}}), convertToColor2({{Wyoming_MEDIAN}})]
+      }
+    ]
+  },
+  options: {
+  	maintainAspectRatio: false,
+  	legend: {
+            labels: {
+                fontColor: "white",
+                fontSize: 18,
+                fontFamily: "'IBM Plex Serif'"
+            }
+        },
+        scales: {
+            yAxes: [{
+                ticks: {
+                    fontColor: "white",
+                    fontSize: 18,
+                    stepSize: 2,
+                    beginAtZero: true,
+                    fontFamily: "'IBM Plex Serif'"
+                }
+            }],
+            xAxes: [{
+                ticks: {
+                    fontColor: "white",
+                    fontSize: 14,
+                    stepSize: 1,
+                    beginAtZero: true,
+                    fontFamily: "'Open Sans'"
+                }
+            }]
+        }
+  }
+});
+</script>
+{% endblock content %}

@@ -1,0 +1,89 @@
+body,html {
+	margin: 0;
+	padding: 0;
+	background-color: #2C3034;
+	 overflow-x: hidden;
+
+}
+
+
+
+.about-intro {
+	color: #F0F0F0;
+	background-color: #222222;
+	text-align: center;
+	border-radius: 25px;
+	padding: 10px;
+	font-family: 'IBM Plex Serif', serif;
+	border: 6px solid white;
+}
+
+.roof {
+	font-weight: bold;
+}
+
+th{
+    font-weight: normal;
+}
+
+
+#us-map{
+  display: block;
+  position: absolute;
+  width: 90%;
+  height: 90%;
+}
+
+path:hover, circle:hover {
+  stroke: #002868 !important;
+  stroke-width:2px;
+  stroke-linejoin: round;
+  fill: #FF2868 !important;
+  cursor: pointer;
+}
+
+#path67 {
+  fill: none !important;
+  stroke: #A9A9A9 !important;
+  cursor: default;
+}
+#info-box {
+  display: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+  background-color: #333333;
+  border: 2px solid #EEEEEE;
+  border-radius: 5px;
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+  cursor: pointer;
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node--leaf {
+  fill: white;
+}
+
+.label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label,
+.node--root,
+.node--leaf {
+  pointer-events: none;
+}
+

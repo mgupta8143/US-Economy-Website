@@ -1,0 +1,1299 @@
+{
+  "name": "Government Spending - $ 1.7 T",
+  "children": [
+    {
+      "name": "National Defense - $333.0 B",
+      "children": [
+        {
+          "name": "Department of Defense - Military - $226.2 B",
+          "children": [
+            {
+              "name":"Defense Working Capital Fund, Defense - $38.6 B",
+              "size": 38.6
+            },
+            {
+              "name": "Operation and Maintenance, Army - $14.2 B",
+              "size": 14.2
+            },
+            {
+              "name": "Aircraft Procurement, Navy - $9.2 B",
+              "size": 9.2
+            },
+            {
+              "name": "Operation and Maintenance, Defense-Wide, Defense - $8.6",
+              "size": 8.6
+            },
+            {
+              "name": "Concurrent Receipt Accrual Payments to the Military Retirement Fund, Defense - $8.5 B",
+              "size": 8.5
+            },
+            {
+              "name": "Shipbuilding and Conversion, Navy - $8.0 B",
+              "size": 8.0
+            },
+            {
+              "name": "Military Personnel, Air Force - $7.7 B",
+              "size": 7.7
+            },
+            {
+              "name": "Aircraft Procurement, Air Force - $7.0 B",
+              "size": 7.0
+            },
+            {
+              "name": "Operation and Maintenance, Navy - $12.7 B",
+              "size": 12.7
+            },
+            {
+              "name": "Military Personnel, Army - $12.5 B",
+              "size": 12.5
+            },
+            {
+              "name": "Operation and Maintenance, Air Force - $11.6 B",
+              "size": 11.6
+            },
+            {
+              "name": "Defense Health Program, Defense - $10.7 B",
+              "size": 10.7
+            },
+            {
+              "name": "Research, Development, Test, and Evaluation, Air Force - $10.3 B",
+              "size": 10.3
+            },
+            {
+              "name": "Research, Development, Test, and Evaluation, Navy - $4.3 B",
+              "size": 4.3
+            },
+            {
+              "name": "Research, Development, Test, and Evaluation, Defense-Wide - $4.1 B",
+              "size": 4.1
+            },
+            {
+              "name": "Other Procurement, Air Force - $4.0 B",
+              "size": 4.0
+            },
+            {
+              "name": "Military Personnel, Marine Corps - $3.4 B",
+              "size": 3.4
+            },
+            {
+              "name": "Research, Development, Test, and Evaluation, Army - $3.3 B",
+              "size": 3.3
+            },
+            {
+              "name": "National Guard Personnel, Army - $2.3 B",
+              "size": 2.3
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Army - $2.2 B",
+              "size": 2.2
+            },
+            {
+              "name": "Other Procurement, Navy - $1.9 B",
+              "size": 1.9
+            },
+            {
+              "name": "Other Procurement, Army - $2.0 B",
+              "size": 2.0
+            },
+            {
+              "name": "Operation and Maintenance, Marine Corps - $1.7 B",
+              "size": 1.7
+            },
+            {
+              "name": "Operation and Maintenance, Army National Guard - $1.7 B",
+              "size": 1.7
+            },
+            {
+              "name": "Procurement, Defense-Wide - $1.6 B",
+              "size": 1.6
+            },
+            {
+              "name": "Procurement of Weapons and Tracked Combat Vehicles, Army - $1.5 B",
+              "size": 1.5
+            },
+            {
+              "name": "Operation and Maintenance, Air National Guard - $1.5 B",
+              "size": 1.5
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Navy - $1.5 B",
+              "size": 1.5
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Air Force - $1.5 B",
+              "size": 1.5
+            },
+            {
+              "name": "Missile Procurement, Army - $1.3 B",
+              "size": 1.3
+            },
+            {
+              "name": "National Sea-Based Deterrence Fund, Navy - $1.5 B",
+              "size": 1.5
+            },
+            {
+              "name": "Aircraft Procurement, Army- $1.3 B",
+              "size": 1.3
+            },
+            {
+              "name": "Reserve Personnel, Army - $1.2 B",
+              "size": 1.2
+            },
+            {
+              "name": "Military Construction, Army - $1.1 B",
+              "size": 1.1
+            },
+            {
+              "name": "National Guard Personnel, Air Force, $999.6 M",
+              "size": 0.9996
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Marine Corps - $859.7 M",
+              "size": 0.8597
+            },
+            {
+              "name": "Procurement of Ammunition, Army - $811.8 M",
+              "size": 0.8118
+            },
+            {
+              "name": "Weapons Procurement, Navy - $794.7 M",
+              "size": 0.7947
+            },
+            {
+              "name": "Military Construction, Defense-Wide - $774.3 M",
+              "size": 0.7743
+            },
+            {
+              "name": "Operation and Maintenance, Air Force Reserve - $724.3 M",
+              "size": 0.7243
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Army - $703.6 M",
+              "size": 0.7036
+            },
+            {
+              "name": "Procurement, Marine Corps - $653.8 M",
+              "size": 0.6538
+            },
+            {
+              "name": "Military Construction, Navy and Marine Corps - $635.2 M",
+              "size": 0.6352
+            },
+            {
+              "name":"Military Construction, Air Force - $628.4 M",
+              "size": 0.6284
+            },
+            {
+              "name": "Operation and Maintenance, Army Reserve - $589.4 M",
+              "size": 0.5894
+            },
+            {
+              "name": "Space Procurement, Air Force - $378.5 M",
+              "size": 0.3785
+            },
+            {
+              "name": "Procurement of Ammunition, Air Force - $355.6 M",
+              "size": 0.3556
+            },
+            {
+              "name": "Missile Procurement, Air Force - $323.4 M",
+              "size": 0.3234
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Air Force - $254.5 M",
+              "size": 0.2545
+            },
+            {
+              "name": "Operation and Maintenance, Navy Reserve - $198.2 M",
+              "size": 0.1982
+            },
+            {
+              "name": "Chemical Agents and Munitions Destruction, Defense - $211.9 M",
+              "size": 0.2119
+            },
+            {
+              "name": "Counter-ISIS Train and Equip Fund, Army - $191.7 M",
+              "size": 0.1917
+            },
+            {
+              "name": "Afghanistan Security Forces Fund, Army - $585.3 M",
+              "size": 0.5853
+            },
+            {
+              "name": "Reserve Personnel, Air Force - $556.6 M",
+              "size": 0.5566
+            },
+            {
+              "name": "Reserve Personnel, Navy - $496.5 M",
+              "size": 0.4965
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Army - $394.6 M",
+              "size": 0.3946
+            },
+            {
+              "name": "Reserve Personnel, Marine Corps - $176.7 M",
+              "size": 0.1767
+            },
+            {
+              "name": "National Guard and Reserve Equipment, Defense - $155.3 M",
+              "size": 0.1553
+            },
+            {
+              "name": "Procurement of Ammunition, Navy and Marine Corps - $174.4 M",
+              "size": 0.1744
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Air Force - $139.7 M",
+              "size": 0.1397
+            },
+            {
+              "name": "Burden Sharing Contribution, Defense - $171.0 M",
+              "size": 0.171
+            },
+            {
+              "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Navy - $136.9 M",
+              "size": 0.1369
+            },
+            {
+              "name": "Office of the Inspector General, Defense - $111.2 M",
+              "size": 0.1112
+            },
+            {
+              "name": "Medicare-Eligible Health Fund Contribution, Reserve Personnel, Marine Corps - $77.4 M",
+              "size": 0.0774
+            },
+            {
+              "name": "Family Housing Construction, Army - $61.2 M",
+              "size": 0.0612
+            },
+            {
+              "name": "NATO, Security Investment Program, Defense - $106.2 M",
+              "size": 0.1062
+            },
+            {
+              "name": "Family Housing Operation and Maintenance, Army - $58.8 M",
+              "size": 0.0588
+            },
+            {
+              "name": "Family Housing Operation and Maintenance, Air Force - $58.4 M",
+              "size": 0.0584
+            },
+            {
+              "name": "Department of Defense Acquisition Workforce Development Fund, Defense - $56.1 M",
+              "size": 0.0561
+            },
+            {
+              "name": "Operation and Maintenance, Marine Corps Reserve - $48.5 M",
+              "size": 0.0485
+            },
+            {
+              "name": "Family Housing Operation and Maintenance, Navy and Marine Corps, - $36.0 M",
+              "size": 0.0360
+            }
+          ]
+        },
+        {
+          "name": "Defense- Related Activities - $100.9 B",
+          "children": [
+            {
+              "name": "Payments to Military Retirement Fund, Defense - $91.9 B",
+              "size": 91.9
+            },
+            {
+              "name": "Payment to Department of Defense Medicare - Eligible Retiree Health Care Fund - $6.6 B",
+              "size": 6.6
+            },
+            {
+              "name": "Salaries and Expenses, FBI, Justice - $2.1 B",
+              "size": 2.1
+            },
+            {
+              "name": "Ready Reserve Force, Maritime Administration, Transportation - $84.3 M",
+              "size": 0.0843
+            },
+            {
+              "name": "Maritime Security Program, Maritime Administration, Transportation - $79.3 M",
+              "size": 0.0793
+            },
+            {
+              "name": "Payment to the Radiation Exposure Compensation Trust Fund, Justice - $65 M",
+              "size": 0.065
+            },
+            {
+              "name": "Procurement, Construction, and Improvements, National Protection and Programs Directorate, Homeland Security - $44.1 M",
+              "size": 0.0441
+            },
+            {
+              "name": "Radiation Exposure Compensation Trust Fund, Justice - 15.6 M",
+              "size": 0.0156
+            }
+          ]
+        },
+        {
+          "name": "Atomic energy defense activities - $5.9 B",
+          "children": [
+            {
+              "name": "Weapons Activities, National Nuclear Security Administration, Energy - $3.1 B",
+              "size": 3.1
+            },
+            {
+              "name": "Defense Environmental Cleanup, Environmental and Other Defense Activities, Energy - $1.2 B",
+              "size": 1.2
+            },
+            {
+              "name": "Energy Employees Occupational Illness Compensation Fund, Labor - $399.0 M",
+              "size": 0.399
+            },
+            {
+              "name": "Other Defense Activities, Environmental and Other Defense Activities, Energy - $390.3 M",
+              "size": 0.3903
+            },
+            {
+              "name": "Defense Nuclear Nonproliferation, National Nuclear Security Administration, Energy - $388.0 M",
+              "size": 0.388
+            },
+            {
+              "name": "Naval Reactors, National Nuclear Security Administration, Energy - $372.1 M",
+              "size": 0.3721
+            },
+            {
+              "name": "Federal Salaries and Expenses, National Nuclear Security Administration, Energy",
+              "size": 0.0797
+            },
+            {
+              "name": "Administrative Expenses, Energy Employees Occupational Illness Compensation Fund, Labor - $23.9 M",
+              "size": 0.0239
+            },
+            {
+              "name": "Formerly Utilized Sites Remedial Action Program, Corps of Engineers-Civil - $13.2 M",
+              "size": 0.0132
+            },
+            {
+              "name": "Salaries and Expenses, Defense Nuclear Facilities Safety Board - $5.6 M",
+              "size": 0.0056
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Medicare - $295.8 B",
+      "children": [
+        {
+          "name": "Federal Supplementary Medical Insurance Trust Fund-Treasury Managed. Health and Human Services - $98.7 B",
+          "size": 98.7
+        },
+        {
+          "name": "Payments to Health Care Trust Funds, Centers for Medicare and Medicaid Services, Health and Human Services - $93.7 B",
+          "size": 93.7
+        },
+        {
+          "name": "Federal Hospital Insurance Trust Fund - Treasury Managed, Health and Human Services - $83.8 B",
+          "size": 83.8
+        },
+        {
+          "name": "Medicare Prescription Durg Account, Centers for Medicare and Medicaid Services, Health and Human Services - $18.9 B",
+          "size": 18.9
+        },
+        {
+          "name": "Health Care Fraud and Abuse Control Account, Health and Human Services - $451.1 M",
+          "size": 0.4511
+        },
+        {
+          "name": "Quality Improvements Organizations, Centers for Medicare and Medicaid, Human and Health Services - $311.2 M",
+          "size": 0.3112
+        }
+      ]
+    },
+    {
+      "name": "Social Security - $280.9 B",
+      "children": [
+        {
+          "name": "Federal Old-Age and Survivors Insurance Trust Fund - Treasury Managed, Social Security Administration - $232.1 B",
+          "size": 232.1
+        },
+        {
+          "name": "Federal Disability Insurance Trust Fund-Treasury Managed, Social Security Administration - $36.7 B",
+          "size": 36.7
+        },
+        {
+          "name": "Payments to Social Security Trust Funds, Social Security Administration - $9.0 B",
+          "size":9
+        },
+        {
+          "name": "Salaries and Expenses - Social Security Administration - $3.1 B",
+          "size": 3.1
+        }
+      ]
+    },
+    {
+      "name": "Health - $179 B",
+      "children": [
+        {
+          "name": "Health Care Services - $171.9 B",
+          "children": [
+            {
+              "name": "Grants to States for Medicaid, Centers for Medicare and Medicaid Services - $115.0 B",
+              "size": 115
+            },
+            {
+              "name": "Employees' Health Benefits Fund, Office of Personnel Management - $14.6 B",
+              "size": 14.6
+            },
+            {
+              "name": "Refundable Premium Assistance Tax Credit, IRS - $14.4 B",
+              "size": 14.4
+            },
+            {
+              "name": "State Children's Health Insurance Fund, Centers for Medicare and Medicaid Services - $12.0 B",
+              "size": 12.0
+            },
+            {
+              "name":"Department of Defense, Medicare-Eligible Retiree Health Care Fund - $3.4 B",
+              "size": 3.4
+            },
+            {
+              "name": "Government Payment for Annuitants, Employees' Health Benefits, Office of Personnel Management - $3.3 B",
+              "size": 3.3
+            },
+            {
+              "name": "Indian Health Services - $2.7 B",
+              "size": 2.7
+            },
+            {
+              "name": "Risk Adjustment Program Payments - $1.1 B",
+              "size": 1.1
+            },
+            {
+              "name": "Postal Service Contributions for Retiree Health Benefits - $948.0 M",
+              "size": 0.948
+            },
+            {
+              "name": "Program Management, Centers for Medicare and Medicaid Services - $706.0 M",
+              "size": 0.706 
+            },
+            {
+              "name": "Contract Support Costs, Indian Health Service - $548.6 M",
+              "size": 0.5486
+            },
+            {
+              "name": "Other - $4.5 B",
+              "size": 4.5
+            }
+
+          ]
+        },
+        {
+          "name": "Health Research and Training - $5.2 B",
+          "size": 5.2
+        },
+        {
+          "name": "Consumer and Occupational Health and Safety - $1.9 B",
+          "size": 1.9
+        }
+      ]
+    },
+    {
+      "name": "Income Security - $134.7 B",
+      "children": [
+        {
+          "name": "Federal Employee Retirement and Disability - $39.9 B",
+          "size": 39.9
+        },
+        {
+          "name": "Other Income Security - $34.0 B",
+          "size": 34.0
+        },
+        {
+          "name": "Food and Nutrition Assistance - $31.9 B",
+          "size": 31.9
+        },
+        {
+          "name": "Housing Assistance - $15.6 B",
+          "size": 15.6
+        },
+        {
+          "name": "Unemployment Compensation - $7.4 B",
+          "size": 7.4
+        },
+        {
+          "name": "General Retirement and Disability Insurance- $6.0 B",
+          "size": 6.0
+        }
+      ]
+    },
+    {
+      "name": "Veterans Benefits and Services - $58 B",
+      "children": [
+        {
+          "name": "Income Security for Veterans - $27.4 B",
+          "children": 27.4
+        },
+        {
+          "name": "Hospital and Medical Care for Veterans - $23.2 B",
+          "size": 23.2
+        },
+        {
+          "name": "Veterans Education, Training, and Rehabilitation - $3.7 B",
+          "size": 3.7
+        },
+        {
+          "name": "Other veterans benefits and services - $3.6 B",
+          "size": 3.6
+        }
+      ]
+    },
+    {
+      "name": "Net Interest - $163.3 B",
+      "children": [
+        {
+          "name": "Interest on Treasury Debt Securities (Gross) - $160.2 B",
+          "size": 160.2
+        },
+        {
+          "name": "Other Interest - $3.2 B",
+          "size": 3.2
+        }
+      ]
+    },
+    {
+      "name": "Unreported Data - $38.8 B",
+      "size": 38.3
+    },
+    {
+      "name": "General Government - $75.9 B",
+      "children": [
+        {
+          "name": "Central Fiscal Operations - $38.8 B",
+          "size": 38.8
+        },
+        {
+          "name": "General Property and Records Management - $23.6",
+          "size": 23.6
+        },
+        {
+          "name": "Central Personnel Management - $11.1 B",
+          "size": 11.1
+        },
+        {
+          "name": "General Purpose Fiscal Assistance - $1.5 B",
+          "size": 1.5
+        },
+        {
+          "name": "Other General Government - $585.3 M",
+          "size": 0.5853
+        },
+        {
+          "name": "Legislative Functions - $166.3 M",
+          "size": 0.1663
+        },
+        {
+          "name": "Executive Direction and Management- $130.7 M",
+          "size": 0.1307
+        }
+      ]
+    },
+    {
+      "name": "Transportation - $16.9 B",
+      "children": [
+        {
+          "name": "Air Transportation - $8.2 B",
+          "size": 8.2
+        },
+        {
+          "name": "Ground Transportation - $5.6 B",
+          "size": 5.6
+        },
+        {
+          "name": "Water Transportation - $2.7 B",
+          "size": 2.7
+        },
+        {
+          "name": "Other Transportation - $304.7 M",
+          "size": 0.3047
+        }
+      ]
+    },
+    {
+      "name": "Administration of Justice - $16.8 B",
+      "children": [
+        {
+          "name": "Federal Law Enforcement Activities - $12.2 B",
+          "size": 12.2
+        },
+        {
+          "name": "Federal Correctional Activities - $2.1 B",
+          "size": 2.1
+        },
+        {
+          "name": "Federal Litigative and Judicial Activities - $1.8 B",
+          "size": 1.8
+        },
+        {
+          "name": "Criminal Justice Assistance - $754.4 M",
+          "size": 0.7544
+        }
+      ]
+    },
+    {
+      "name": "Natural Resources and Environment - $14.7 B",
+      "children": [
+        {
+          "name": "Water Resources - $7.5 B",
+          "size": 7.5
+        },
+        {
+          "name": "Conservation and Land Management - $3.1 B",
+          "size": 3.1
+        },
+        {
+          "name": "Other Natural Resources - $1.7 B",
+          "size": 1.7
+        },
+        {
+          "name": "Pollution Control and Abatement - $1.6 B",
+          "size": 1.6
+        },
+        {
+          "name": "Recreational Resources - $820.3 M",
+          "size": 0.8203
+        }
+      ]
+    },
+    {
+      "name": "Education, Training, Employment, and Social Services - $33.0 B",
+      "children": [
+        {
+          "name": "Elementary, Secondary, and Vocational Education - $23.1 B",
+          "size": 23.1
+        },
+        {
+          "name": "Higher Education - $3.2 B",
+          "size": 3.2
+        },
+        {
+          "name": "Social Services - $2.8 B",
+          "size": 2.8
+        },
+        {
+          "name": "Training and Employment - $2.7 B",
+          "size": 2.7
+        },
+        {
+          "name": "Research and General Education Aids - $673.2 M",
+          "size": 0.6732
+        },
+        {
+          "name": "Other Labor Services - $593.7 M",
+          "size": 0.5937
+        }
+      ]
+    }, 
+    {
+      "name": "Agriculture - $14.2 B",
+      "children": [
+        {
+          "name": "Farm Income Stabilization - $12.7 B",
+          "children": [
+            {
+              "name": "Commodity Credit Corporation Fund - $8.9 B",
+              "size": 8.9
+            },
+            {
+              "name": "Federal Crop Insurance Corporation Fund, Risk Management Agency - $3.5 B",
+              "size": 3.5
+            },
+            {
+              "name": "Salaries and Expenses, Farm Service Agency - $272.2 M",
+              "size": 0.2722
+            },
+            {
+              "name": "Farm Production and Conservation Business Center - $53.8 M",
+              "size": 0.0538
+            },
+            {
+              "name": "Administrative and Operation Expenses - $13.5 M",
+              "size": 0.0135
+            },
+            {
+              "name": "Farm Credit Insurance Fund - $1.9 M",
+              "size": 0.0019
+            },
+            {
+              "name": "State Meditation Grants - $1.7 M",
+              "size": 0.0017
+            }
+          ]
+        },
+        {
+          "name": "Agricultural Research and Services - $1.5 B",
+          "size": 1.5
+        }
+      ]
+    },
+    {
+      "name": "Community and Regional Development - $13.4 B",
+      "children": [
+        {
+          "name": "Area and Regional Development - $9.0 B",
+          "size": 9.0
+        },
+        {
+          "name": "Disaster Relief and Insurance - $3.4 B",
+          "size": 3.4
+        },
+        {
+          "name": "Community Development - $987.3 M",
+          "size": 0.9873
+        }
+      ]
+    },
+    {
+      "name": "International Affairs - $10.2 B",
+      "children": [
+        {
+          "name": "International Development and Humanitarian Assistance - $4.6 B",
+          "size": 4.6
+        },
+        {
+          "name": "Conduct of Foreign Affairs - $3.8 B",
+          "size": 3.8
+        },
+        {
+          "name": "International Security Assistance - $756.6 M",
+          "size": 0.7566
+        },
+        {
+          "name": "International Financial Programs - $705.8 M",
+          "size": 0.7058
+        },
+        {
+          "name": "Foreign Information and Exchange Activities - $255.6 M",
+          "size": 0.2556
+        }
+      ]
+    },
+    {
+      "name": "Commerce and Housing Credit - $13.2 B",
+      "children": [
+        {
+          "name": "Other Advancement of Commerce - $11.5 B",
+          "size": 11.5
+        },
+        {
+          "name": "Deposit Insurance - $1.0 B",
+          "size": 1.0
+        },
+        {
+          "name": "Mortgage Credit - $749.9 M",
+          "size": 0.7499
+        }
+      ]
+    },
+    {
+      "name": "General Science, Space, and Technology - $6.5 B",
+      "children": [
+        {
+          "name": "Space Flight, Research, and Supporting Activities - $4.5 B",
+          "children": [
+            {
+              "name": "Science, NASA - $1.3 B",
+              "size": 1.3
+            },
+            {
+              "name": "Exploration, NASA - $1.1 B",
+              "size": 1.1
+            },
+            {
+              "name": "Space Operations, NASA - $921.5 M",
+              "size": 0.9215
+            },
+            {
+              "name": "Safety, Security, and Mission Services, NASA - $838.2 M",
+              "size": 0.8382
+            },
+            {
+              "name": "Space Technology, NASA - $186.5 M",
+              "size": 0.1865
+            },
+            {
+              "name": "Construction and Environmental Compliance and Restoration, NASA - $102.2 M",
+              "size": 0.1022
+            },
+            {
+              "name": "Working Capital Fund, NASA - $86.4 M",
+              "size": 0.0864
+            },
+            {
+              "name": "Office of Inspector General, NASA - $9.8 M",
+              "size": 0.0098
+            },
+            {
+              "name": "STEM Engagement, NASA - $6.7 M",
+              "size": 0.0067
+            }
+          ]
+        },
+        {
+          "name": "General Science and Basic Research - $1.9 B",
+          "children": [
+            {
+              "name": "Science, Energy Programs, Energy - $1.3 B",
+              "children": [
+                {
+                  "name": "BASIC ENERGY SERVICES - $371.3 M",
+                  "size": 0.3713
+                },
+                {
+                  "name": "HIGH ENERGY PHYSICS - $218.2 M",
+                  "size": 0.2182
+                },
+                {
+                  "name": "ADVANCED SCIENTIFIC COMPUTING RESEARCH - $169.1 M",
+                  "size": 0.1691 
+                },
+                {
+                  "name": "NUCLEAR PHYSICS - $128.2 M",
+                  "size": 0.1282
+                },
+                {
+                  "name": "FUSION ENERGY SCIENCES - $83.6 M",
+                  "size": 0.0836
+                },
+                {
+                  "name": "BIOLOGICAL AND ENVIRONMENTAL RESEARCH - $143.0 M",
+                  "size": 0.143
+                },
+                {
+                  "name": "SCIENCE (REIMBURSABLE) - $57.0 M",
+                  "size": 0.057
+                },
+                {
+                  "name": "SCIENCE LABORATORIES Infrastructure - $52.9 M",
+                  "size": 0.0529
+                },
+                {
+                  "name": "Science Program Direction - $37.3 M",
+                  "size": 0.0373
+                },
+                {
+                  "name": "Safeguards and Security - $20.0 M",
+                  "size": 0.020
+                }
+              ]
+            },
+            {
+              "name": "Research and Related Activities, National Science Foundation - $504.4 M",
+              "children": [
+                {
+                  "name": "Mathematical and Physical Sciences - $130.1 M",
+                  "size": 0.1301
+                },
+                {
+                  "name": "Office of Polar Programs - $109.0 M",
+                  "size": 0.109
+                },
+                {
+                  "name": "Geosciences - $104.4 M",
+                  "size": 0.1044
+                },
+                {
+                  "name": "Engineering - $68.4 M",
+                  "size": 0.0684
+                },
+                {
+                  "name": "Biological Sciences - $53.3 M",
+                  "size": 0.0533
+                },
+                {
+                  "name": "Integrative Activites - $11.0 M",
+                  "size": 0.011
+                },
+                {
+                  "name": "Computer and Information Science and Engineering - $10.4 M",
+                  "size": 0.0104
+                },
+                {
+                  "name": "Social, Behavioral, and Economic Sciences - $8.0 M",
+                  "size": 0.0080
+                },
+                {
+                  "name": "UNKNOWN/OTHER - $6.5 M",
+                  "size": 0.0065
+                },
+                {
+                  "name": "Research and Related Activities - $2.9 M",
+                  "size": 0.0029
+                },
+                {
+                  "name": "Arctic Research Commission - $266,375.72",
+                  "size": 0.00026637572
+                },
+                {
+                  "name": "Office of International Science and Engineering - $88,193.04",
+                  "size": 0.00008819304
+                }
+              ]
+            },
+            {
+              "name": "Agency Operations and Award Management, NSF - $71.9 M",
+              "size": 0.0719
+            },
+            {
+              "name": "Education and Human Resources, NLF - $38.0 M",
+              "size": 0.038
+            },
+            {
+              "name": "Major Equipment and Facilities Construction, NSF",
+              "size": 0.0304
+            },
+            {
+              "name": "Salaries and Expenses, etc. - $13.1 M",
+              "size": 0.0131
+            },
+            {
+              "name": "Office of Inspector General, NSF - $3.5 M",
+              "size":0.0035
+            },
+            {
+              "name": "Office of National Science Board, NSF - $986,909.57",
+              "size": 0.00098690957
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Energy - $3.2B",
+      "children": [
+        {
+          "name": "Energy Supply - $2.4 B",
+          "children": [
+            {
+              "name": "Bonneville Power Administration Fund, Power Marketing Administration, Energy - $1.0 B",
+              "size": 1
+            },
+            {
+              "name": "Rural Electrification and Telephone Revolving Fund, Liquidating Account,Rural Utilities Service, Agriculture - $570.2 M",
+              "size": 0.5702
+            },
+            {
+              "name": "Nuclear Energy, Energy Programs, Energy - $239.6 M",
+              "size": 0.2396
+            },
+            {
+              "name": "Uranium Enrichment Decontamination and Decomissioning Fund, Energy Programs, Energy - $166.9 M",
+              "size": 0.1669
+            },
+            {
+              "name": "Construction, Rehabilitation, Operation, and Maintenance, Western Area Power Administration - $128.4 M",
+              "size": 0.1284
+            },
+            {
+              "name": "Colorado River Basins Power Marketing Fund... - $32.7 M",
+              "size": 0.0327
+            },
+            {
+              "name": "Expenses, Isotope Production and Distribution Program Fund, Energy - $31.9 M",
+              "size": 0.0319
+            },
+            {
+              "name": "Advanced Research Projects Agency-Energy, Energy Programs, Energy - $21.8 M",
+              "size": 0.0218
+            },
+            {
+              "name": "Payment to Issuer of New Clean Renewable Energy Bonds, IRS, Treasury - $14.4 M",
+              "size": 0.0144
+            },
+            {
+              "name": "Operation and Maintenance, Southeastern Power Administration... - $13.0 M",
+              "size": 0.013
+            },
+            {
+              "name": "Other - $22.1 M",
+              "size": 0.0221
+            }
+          ]
+        },
+        {
+          "name": "Energy Conservation - $390.7 M",
+          "children": [
+            {
+              "name": "Energy Efficiency and Renewable Energy, Energy Programs, Energy - $379.3 M",
+              "children": [
+                {
+                  "name": "Bioenergy Technologies - $90.8 M",
+                  "size": 0.0908
+                },
+                {
+                  "name": "Water Power - $48.8 M",
+                  "size": 0.0488
+                },
+                {
+                  "name": "Solar Energy - $42.2 M",
+                  "size": 0.0422
+                },
+                {
+                  "name": "Wind Energy - $40.7 M",
+                  "size": 0.0407
+                },
+                {
+                  "name": "Energy Efficiency and Renewable Energy (Reimbursable) - $26.0 M",
+                  "size": 0.026
+                },
+                {
+                  "name": "Facilities and Infrastructure - $21.5 M",
+                  "size": 0.0215
+                },
+                {
+                  "name": "Vehicle Technologies - $29.6 M",
+                  "size": 0.0296
+                },
+                {
+                  "name": "Program Direction and Support - $27.4 M",
+                  "size": 0.0274
+                },
+                {
+                  "name": "Building Technologies - $17.3 M",
+                  "size": 0.0173
+                },
+                {
+                  "name": "Hydrogen and Fuel Cell Technologies - $13.9 M",
+                  "size": 0.0139
+                },
+                {
+                  "name": "Advanced Manufacturing - $10.9 M",
+                  "size": 0.0109
+                },
+                {
+                  "name": "Weathernization and Intergovernmental Activities - $5.0 M",
+                  "size": 0.005
+                },
+                {
+                  "name": "Geothermal Technologies - $3.6 M",
+                  "size": 0.0036
+                },
+                {
+                  "name": "Federal Energy Management Program - $974,958.25",
+                  "size": 0.00097495825
+                },
+                {
+                  "name": "Strategic Programs",
+                  "size": 0.00083410018
+                }
+              ]
+            },
+            {
+              "name": "Payment to Issuer of Qualified Energy Conservation Bonds, IRS, Treasury - $11.3 M",
+              "size": 0.0113 
+            }
+          ]
+        },
+        {
+          "name": "Energy information, policy, and regulation - $336.5 M",
+          "children": [
+            {
+              "name": "Salaries and Expenses, Nuclear Regulatory Commission - $151.3 M",
+              "children": [
+                {
+                  "name": "Nuclear Reactor Safety - $118.8 M",
+                  "size": 0.1188
+                },
+                {
+                  "name": "Nuclear Materials and Waste Safety - $26.2 M",
+                  "size": 0.0262
+                },
+                {
+                  "name": "Decommissioning and Low-Level Waste - $6.4 M",
+                  "size": 0.0064
+                }
+              ]
+            },
+            {
+              "name": "Salaries and Expenses, Federal Energy Regulatory Commission, Energy - $81.8 M",
+              "children": [
+                {
+                  "name": "Ensure just and reasonable rates, terms and conditions - $37.6 M",
+                  "size": 0.0376
+                },
+                {
+                  "name": "Promote safe, reliable, secure, and efficient infrastructure - $28.6 M",
+                  "size":0.0286
+                },
+                {
+                  "name": "Mission Support Through Organizational Excellence - $15.5 M",
+                  "size": 0.0155
+                }
+              ]
+            },
+            {
+              "name": "Departmental Administration, Energy Programs, Energy - $42.4 M",
+              "size": 0.0424
+            },
+            {
+              "name": "Working Capital Fund, Departmental Administration, Energy - $27.7 M",
+              "children": [
+                {
+                  "name": "Building Occupancy (RENT, OPERATIONS, AND MAINTENANCE) - $10.1 M",
+                  "size": 0.0101   
+                },
+                {
+                  "name": "Corporate Business Systems - $6.4 M",
+                  "size": 0.0064
+                },
+                {
+                  "name": "Procurement Management - $3.1 M",
+                  "size": 0.0031
+                },
+                {
+                  "name": "Financial Statement Audits - $2.9 M",
+                  "size": 0.0029
+                },
+                {
+                  "name": "Telecommunication - $1.2 M",
+                  "size": 0.0012
+                },
+                {
+                  "name": "Overseas Presence - $978,551.84",
+                  "size": 0.00097855184
+                },
+                {
+                  "name": "Mail and Transporation Services - $710,753.70",
+                  "size": 0.00071075370
+                },
+                {
+                  "name": "Supplies - $605,680.82",
+                  "size": 0.00060568082
+                },
+                {
+                  "name": "Printing and Graphics - $499.839.08",
+                  "size": 0.00049983908
+                },
+                {
+                  "name": "Copying Services - $474,510.97",
+                  "size": 0.00047451097
+                },
+                {
+                  "name": "Corporate Training Services - $163,422.94",
+                  "size": 0.00016342294
+                },
+                {
+                  "name": "Health Services - $155,272.28",
+                  "size": 0.00015527228
+                },
+                {
+                  "name": "Project Management and Career Development Program - $309,208.21",
+                  "size": 0.00030920821
+                },
+                {
+                  "name": "A-123/Internal Controls - $122,045.24",
+                  "size": 0.00012204524
+                },
+                {
+                  "name": "Pension Studies - $19,872.27",
+                  "size": 0.00001987227
+                },
+                {
+                  "name": "Interagency Transfers - $14,941.90",
+                  "size": 0.00001494190
+                }
+              ]
+            },
+            {
+              "name": "Energy Information Administration, Energy - $18.8 M",
+              "size": 0.0188
+            },
+            {
+              "name": "Expenses, Office of the Inspector General, Energy Programs, Energy - $11.6 M",
+              "size": 0.0116
+            },
+            {
+              "name": "Office of The Inspector General, Nuclear Regulatory, Commission - $2.9 M",
+              "size": 0.0029
+            }
+          ]
+        },
+        {
+          "name": "Emergency energy preparedness - $65 M",
+          "children": [
+            {
+              "name": "Strategic Petroleum Reserve, Energy Programs, Energy - $62.6 M",
+              "children": [
+                {
+                  "name": "SPR Management - $25.6 M",
+                  "children": [
+                    {
+                      "name": "Contractual Services and Supplies - $21.7 M",
+                      "children": [
+                        {
+                          "name": "BUCKEYE TERMINALS, LLC - $15.5 M",
+                          "size": 0.0155
+                        },
+                        {
+                          "name": "GLOBAL COMPANIES LLC - $4.6 M",
+                          "size": 0.0046
+                        },
+                        {
+                          "name": "AOC Petroleum Support Services LLC - $360,627.42",
+                          "size": 0.00036062742
+                        },
+                        {
+                          "name": "Fluor Federal Petroleum Operations, LLC - $70,000",
+                          "size": 0.00007
+                        },
+                        {
+                          "name": "Genscape, INC. - $28,132",
+                          "size": 0.000028132
+                        },
+                        {
+                          "name": "Brookfield Relocation INC. - $25,200",
+                          "size": 0.00025200
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Personnel compensation and benefits - $3.9 M",
+                      "size": 0.0039
+                    }
+                  ]
+                },
+                {
+                  "name": "SPR Storage Facilities Development - $37.0 M",
+                  "size": 0.037
+                }
+              ]
+            },
+            {
+              "name": "SPR Petroleum Account, Energy Programs, Energy - $1.4 M",
+              "size": 0.0014
+            },
+            {
+              "name": "Energy Security and Infrastructure Modernization Fund - $1.0 M",
+              "children": [
+                {
+                  "name": "Infrastructure Security and Energy Restoration - $646,385.23",
+                  "children": [
+                    {
+                      "name": "Personnel compensation and benefits - $334,984.77",
+                      "size": 0.00033498477
+                    },
+                    {
+                      "name": "Contractual services and supplies- $311,400.46 M",
+                      "size": 0.00031140046
+                    }
+                  ]
+                },
+                {
+                  "name": "Energy Security and Infrastructre Modernization - $373,149.44",
+                  "size": 0.00037314944
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
